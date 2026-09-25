@@ -58,7 +58,7 @@ def cash_parse(cash_file_path):
 def check_credit_parse(check_file_path):
     with open(check_file_path, "r", encoding="utf-8", error = "ignore") as check_file:
         
-
+ 
 def main():
     root = tk.Tk()
     root.title("Kumon Project")
