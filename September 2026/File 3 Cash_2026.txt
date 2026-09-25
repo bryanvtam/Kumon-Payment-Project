@@ -1,0 +1,30 @@
+Cash Payments		
+		
+first name	last name	payment amount
+Mason	Cahill	190
+Allen	Aung	205
+Charles	Aung	380
+Amy	Aung	205
+Jolie	Davis	195
+Noel	Tran	195
+Haniya	Fatourehchi	400
+Amari 	Manugue	195
+Ella	Menchavez	180
+Enzo	Menchavez	180
+Graciousveer	Brar	205
+Maia	Olivas	410
+Kayden Chun	Xie	390
+Masanori	Mimatsu	195
+Calliope	Papin	410
+Felix	Wong	390
+Graciela Therese	Abaroa	205
+Noah Artamiel	Gonzales	195
+Alina	Ortiz	195
+Marcelo	Ortiz	195
+Jensen	Alvarez	205
+Ellia	Rapada	430
+Josella	Rapada	410
+Celine	Allen	195
+Jacob	Ogawa	195
+Leila	Maxwell	410
+Avery	Maxwell	390
